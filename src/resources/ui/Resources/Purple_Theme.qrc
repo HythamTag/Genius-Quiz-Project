@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="Purple">
+    <file>icons/modern_theme/ButtonMovie_icon.png</file>
+    <file>icons/modern_theme/ButtonExportDataBase_iocn.png</file>
+    <file>icons/modern_theme/ButtonFullscreen_icon.png</file>
+    <file>icons/modern_theme/ButtonRedTeam_icon.png</file>
+    <file>icons/modern_theme/ButtonClean_icon.png</file>
+    <file>icons/modern_theme/ButtonConnectTrue_icon.png</file>
+    <file>icons/modern_theme/ButtonSend_icon.png</file>
+    <file>icons/modern_theme/ButtonAddDataBase_iocn.PNG</file>
+    <file>icons/modern_theme/ButtonAddRow_icon.PNG</file>
+    <file>icons/modern_theme/ButtonDeleteRow_icon.png</file>
+    <file>icons/modern_theme/TabConnection_icon.png</file>
+    <file>icons/modern_theme/TabControl_icon.png</file>
+    <file>icons/modern_theme/TabData_icon.png</file>
+    <file>icons/modern_theme/ButtonBlueSingle_icon.png</file>
+    <file>icons/modern_theme/ButtonBlueTeam_icon.png</file>
+    <file>icons/modern_theme/ButtonBothISingle_icon.png</file>
+    <file>icons/modern_theme/ButtonBothTeam_icon.png</file>
+    <file>icons/modern_theme/ButtonConnection_icon.png</file>
+    <file>icons/modern_theme/ButtonConnectFalse_icon.png</file>
+    <file>icons/modern_theme/ButtonCorrect_icon.png</file>
+    <file>icons/modern_theme/ButtonLeft_icon.png</file>
+    <file>icons/modern_theme/ButtonMinus_icon.png</file>
+    <file>icons/modern_theme/ButtonPlus_icon.png</file>
+    <file>icons/modern_theme/ButtonRedSingle_icon.png</file>
+    <file>icons/modern_theme/ButtonRedTeam_icon.png</file>
+    <file>icons/modern_theme/ButtonReset_icon.png</file>
+    <file>icons/modern_theme/ButtonRight_icon.png</file>
+    <file>icons/modern_theme/ButtonSave_icon.png</file>
+    <file>icons/modern_theme/ButtonSave2_icon.png.png</file>
+    <file>icons/modern_theme/ButtonShowCinema_icon.png</file>
+    <file>icons/modern_theme/ButtonSingle_icon.png</file>
+    <file>icons/modern_theme/ButtonStopwatch20_icon.png</file>
+    <file>icons/modern_theme/ButtonStopwatch45_icon.png</file>
+    <file>icons/modern_theme/ButtonUpload_icon.png</file>
+    <file>icons/modern_theme/ButtonWrong_icon.png</file>
+    <file>icons/modern_theme/lock.png</file>
+    <file>icons/modern_theme/password.png</file>
+  </qresource>
+</RCC>

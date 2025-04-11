@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Virtual Envs
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db

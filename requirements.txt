@@ -1,0 +1,8 @@
+PyQt6
+opencv-python
+pygame
+pyserial
+pandas
+xlsxwriter
+paho-mqtt
+pyqtdarktheme
