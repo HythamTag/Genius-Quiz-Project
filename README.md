@@ -120,7 +120,11 @@ GeniusQuizApp/
 
 ## 🎥 Demo Video
 
+<div align="center">
+
 [![Watch Demo](https://img.youtube.com/vi/_hECEB3RVW0/0.jpg)](https://www.youtube.com/watch?v=_hECEB3RVW0&list=PL40MEc9AciPCvp9i2mXNj35zSrlaTzCnk&index=11)
+
+</div>
 
 ---
 
