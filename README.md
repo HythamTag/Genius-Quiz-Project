@@ -12,7 +12,7 @@
 
 ## 🧠 Features
 
-- ✅ Word, image, song, and video questions
+- ✅ Word, image, song questions
 - 🖥️ Dual-screen display with Cinema mode
 - 🧩 Excel import/export for questions and teams
 - ⏱️ Countdown timers with buzzer control
