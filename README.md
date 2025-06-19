@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/UI-PyQt6-green?logo=qt)](https://pypi.org/project/PyQt6/)
 [![MQTT](https://img.shields.io/badge/MQTT-Enabled-purple?logo=eclipse-mosquitto)](https://mosquitto.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > **Genius Quiz** is a full-featured multimedia quiz game built with **PyQt6**, integrating image, audio, video, and buzzer-based questions. It supports team competition, MQTT-connected tablets for players and team names, and hardware buzzer input through Arduino over USB.
 
@@ -147,12 +147,6 @@ python run.py
 4. **Load the folder from the `data/` directory** containing the Excel file with questions and answers. 
    - If the answer is text, it will be stored directly in the Excel file.
    - If the answer is an image or audio, the Excel file will reference the respective media file by name.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
